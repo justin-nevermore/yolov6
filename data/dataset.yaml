@@ -1,0 +1,6 @@
+train: /local/home/jusjar/Documents/yolo_attempt/YOLOv6/custom_dataset/images/train
+val: /local/home/jusjar/Documents/yolo_attempt/YOLOv6/custom_dataset/images/val
+test: /local/home/jusjar/Documents/yolo_attempt/YOLOv6/custom_dataset/images/test
+is_coco: False
+nc: 16
+names: ['dog', 'person', 'cat', 'tv', 'car', 'meatballs', 'marinara sauce', 'tomato soup', 'chicken noodle soup', 'french onion soup', 'chicken breast', 'ribs', 'pulled pork', 'hamburger', 'cavity', 'cup']
